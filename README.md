@@ -138,3 +138,34 @@ Below is a snapshot of the interactive Power BI dashboard developed as part of t
 git clone https://github.com/manohar48936/Weather-Analysis-Dashboard.git
 cd Weather-Analysis-Dashboard
 ```
+2. Install required Python libraries:
+
+```bash
+pip install pandas matplotlib
+```
+3. Run the analysis scripts in your preferred IDE or Jupyter Notebook.
+
+4. Open the provided Power BI file (`.pbix`) to explore the dashboard. Ensure you have **Power BI Desktop installed**.
+
+---
+
+## 🌐 Future Scope
+
+- Integrate real-time weather data pipelines using APIs.
+- Develop predictive models for temperature and rainfall forecasting using ML algorithms.
+- Deploy dashboards on cloud platforms (Azure Power BI service or Tableau Server) for public or organizational access.
+- Create a web app for weather trend visualization using Flask/Django + Power BI Embedded.
+
+---
+
+## 📞 Contact
+
+For queries or collaboration:
+
+**Kondeti Veera Venkata Surya Sai Manohar**  
+[GitHub](https://github.com/manohar48936) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | manohar48936@gmail.com
+
+---
+
+> 💡 _This project was built as part of our Data Analysis learning to strengthen skills in data cleaning, analysis, and business intelligence reporting._
+
