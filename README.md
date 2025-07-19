@@ -123,7 +123,7 @@ Below is a snapshot of the interactive Power BI dashboard developed as part of t
 | Name | GitHub |
 |------|--------|
 | Kondeti Veera Venkata Surya Sai Manohar | [@manohar48936](https://github.com/manohar48936) |
-| Yaswanth Vanapalli | [@AR10X](https://github.com/AR10X) |
+| Yaswanth Vanapalli | [@YaswanthVanapalli](https://github.com/YaswanthVanapalli) |
 ---
 
 ## 🚀 How to Run
