@@ -122,12 +122,8 @@ Below is a snapshot of the interactive Power BI dashboard developed as part of t
 
 | Name | GitHub |
 |------|--------|
-| Abdul Rehaman | [@AR10X](https://github.com/AR10X) |
-| Ashrith M R | [@ashhh-01](https://github.com/ashhh-01) |
-| Danish Hasan | [@DanishHasan14321](https://github.com/DanishHasan14321) |
-| Shiwali Verma | [@AR10X/data-analysis](https://github.com/AR10X/data-analysis) |
 | Kondeti Veera Venkata Surya Sai Manohar | [@manohar48936](https://github.com/manohar48936) |
-
+| Yaswanth Vanapalli | [@AR10X](https://github.com/AR10X) |
 ---
 
 ## 🚀 How to Run
